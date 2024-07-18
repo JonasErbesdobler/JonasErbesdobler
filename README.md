@@ -1,6 +1,6 @@
 ## GitHub account of Jonas A. Erbesdobler
 
-Currently:   Aerospace M.Sc. student at the Technical University of Munich
+Currently:   Aerospace M.Sc. student at the Technical University of Munich\
 Soon ->      PhD student at the University of Tokyo 東京大学
 
 <!--

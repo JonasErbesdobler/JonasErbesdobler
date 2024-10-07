@@ -1,7 +1,6 @@
 ## GitHub account of Jonas A. Erbesdobler
 
-Currently:   Aerospace M.Sc. student at the Technical University of Munich\
-Soon ->      PhD student at the University of Tokyo 東京大学
+Currently:   PhD student at the University of Tokyo 東京大学
 
 <!--
 **JonasErbesdobler/JonasErbesdobler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
